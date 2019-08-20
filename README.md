@@ -1,2 +1,2 @@
-# hello-wotld
+# hello-world
 tutorial repository
